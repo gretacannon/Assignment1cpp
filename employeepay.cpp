@@ -32,6 +32,6 @@ int main(int argc, char **argv){
   cout << "State Income Tax: " << stateIncomeTax << endl;
   cout << "Medical Insurance: " << medicalInsurance << endl;
   cout << "Net Take Home: " << net << endl;
-
+return 0;
 
 }
